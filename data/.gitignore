@@ -1,0 +1,3 @@
+// ignore all files here, but keep the directory
+*
+!.gitignore
